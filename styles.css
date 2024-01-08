@@ -42,7 +42,17 @@
     margin-right: auto;
     display: block;
 }
+.MainContainer p{
+    text-align: justify;
+}
 
+.MainContentText{
+    color: #373A36;
+    font-size: 17px;
+    white-space: pre-line;
+
+   
+}
 .MainContainer {
     display: flex;
     flex-direction: column;
